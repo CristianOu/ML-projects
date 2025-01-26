@@ -14,4 +14,6 @@ conda env update -n `<env-name>` --file `<conda-environment.yml>`
 
 ## Installation of CUDA Nvidia:
 
-[Installatio](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/)
+[Installation](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/)
+
+Unzip datasets first in the root folder
